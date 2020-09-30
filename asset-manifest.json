@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/boccia/static/css/main.e07b21bc.chunk.css",
-    "main.js": "/boccia/static/js/main.8c0fdfda.chunk.js",
-    "main.js.map": "/boccia/static/js/main.8c0fdfda.chunk.js.map",
+    "main.css": "/boccia/static/css/main.25fac2ea.chunk.css",
+    "main.js": "/boccia/static/js/main.9a194c96.chunk.js",
+    "main.js.map": "/boccia/static/js/main.9a194c96.chunk.js.map",
     "runtime-main.js": "/boccia/static/js/runtime-main.74d11a01.js",
     "runtime-main.js.map": "/boccia/static/js/runtime-main.74d11a01.js.map",
-    "static/js/2.4e97f2d2.chunk.js": "/boccia/static/js/2.4e97f2d2.chunk.js",
-    "static/js/2.4e97f2d2.chunk.js.map": "/boccia/static/js/2.4e97f2d2.chunk.js.map",
+    "static/js/2.448031d8.chunk.js": "/boccia/static/js/2.448031d8.chunk.js",
+    "static/js/2.448031d8.chunk.js.map": "/boccia/static/js/2.448031d8.chunk.js.map",
     "index.html": "/boccia/index.html",
-    "precache-manifest.ae03912add4c786c0cb32fd7b84a4963.js": "/boccia/precache-manifest.ae03912add4c786c0cb32fd7b84a4963.js",
+    "precache-manifest.9415564ddd41361de73acf333e6768da.js": "/boccia/precache-manifest.9415564ddd41361de73acf333e6768da.js",
     "service-worker.js": "/boccia/service-worker.js",
-    "static/css/main.e07b21bc.chunk.css.map": "/boccia/static/css/main.e07b21bc.chunk.css.map",
-    "static/js/2.4e97f2d2.chunk.js.LICENSE.txt": "/boccia/static/js/2.4e97f2d2.chunk.js.LICENSE.txt",
+    "static/css/main.25fac2ea.chunk.css.map": "/boccia/static/css/main.25fac2ea.chunk.css.map",
+    "static/js/2.448031d8.chunk.js.LICENSE.txt": "/boccia/static/js/2.448031d8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/boccia/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.74d11a01.js",
-    "static/js/2.4e97f2d2.chunk.js",
-    "static/css/main.e07b21bc.chunk.css",
-    "static/js/main.8c0fdfda.chunk.js"
+    "static/js/2.448031d8.chunk.js",
+    "static/css/main.25fac2ea.chunk.css",
+    "static/js/main.9a194c96.chunk.js"
   ]
 }
