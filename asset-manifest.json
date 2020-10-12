@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/boccia/static/css/main.9865852a.chunk.css",
+    "main.css": "/boccia/static/css/main.143619da.chunk.css",
     "main.js": "/boccia/static/js/main.ffb992d5.chunk.js",
     "main.js.map": "/boccia/static/js/main.ffb992d5.chunk.js.map",
     "runtime-main.js": "/boccia/static/js/runtime-main.74d11a01.js",
@@ -8,9 +8,9 @@
     "static/js/2.201ec52b.chunk.js": "/boccia/static/js/2.201ec52b.chunk.js",
     "static/js/2.201ec52b.chunk.js.map": "/boccia/static/js/2.201ec52b.chunk.js.map",
     "index.html": "/boccia/index.html",
-    "precache-manifest.06559cb5de27c2649663de96e0a46409.js": "/boccia/precache-manifest.06559cb5de27c2649663de96e0a46409.js",
+    "precache-manifest.1085199f1fdd45c582546cb6fb5f51f8.js": "/boccia/precache-manifest.1085199f1fdd45c582546cb6fb5f51f8.js",
     "service-worker.js": "/boccia/service-worker.js",
-    "static/css/main.9865852a.chunk.css.map": "/boccia/static/css/main.9865852a.chunk.css.map",
+    "static/css/main.143619da.chunk.css.map": "/boccia/static/css/main.143619da.chunk.css.map",
     "static/js/2.201ec52b.chunk.js.LICENSE.txt": "/boccia/static/js/2.201ec52b.chunk.js.LICENSE.txt",
     "static/media/WhatIsOne.png": "/boccia/static/media/WhatIsOne.0f1251e8.png",
     "static/media/logo.svg": "/boccia/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.74d11a01.js",
     "static/js/2.201ec52b.chunk.js",
-    "static/css/main.9865852a.chunk.css",
+    "static/css/main.143619da.chunk.css",
     "static/js/main.ffb992d5.chunk.js"
   ]
 }
