@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0397e522d43833bbc79236660e1ace1b",
+    "revision": "10bcd645aa86a7313a923be713bf14cb",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "36de4c8b1b67a38ed190",
-    "url": "/boccia/static/css/main.9e5bcdf7.chunk.css"
+    "revision": "d47c2395f06e2e336ddb",
+    "url": "/boccia/static/css/main.d9b7e6de.chunk.css"
   },
   {
     "revision": "675f4250866c118bfbae",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/js/2.01c61aca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36de4c8b1b67a38ed190",
-    "url": "/boccia/static/js/main.1342ff6d.chunk.js"
+    "revision": "d47c2395f06e2e336ddb",
+    "url": "/boccia/static/js/main.f2107070.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
