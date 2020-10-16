@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/boccia/static/css/main.b6354f70.chunk.css",
-    "main.js": "/boccia/static/js/main.9ca1f766.chunk.js",
-    "main.js.map": "/boccia/static/js/main.9ca1f766.chunk.js.map",
+    "main.css": "/boccia/static/css/main.fe1cc1f1.chunk.css",
+    "main.js": "/boccia/static/js/main.408ecaf5.chunk.js",
+    "main.js.map": "/boccia/static/js/main.408ecaf5.chunk.js.map",
     "runtime-main.js": "/boccia/static/js/runtime-main.74d11a01.js",
     "runtime-main.js.map": "/boccia/static/js/runtime-main.74d11a01.js.map",
-    "static/js/2.21483fbf.chunk.js": "/boccia/static/js/2.21483fbf.chunk.js",
-    "static/js/2.21483fbf.chunk.js.map": "/boccia/static/js/2.21483fbf.chunk.js.map",
+    "static/js/2.d4c1a3de.chunk.js": "/boccia/static/js/2.d4c1a3de.chunk.js",
+    "static/js/2.d4c1a3de.chunk.js.map": "/boccia/static/js/2.d4c1a3de.chunk.js.map",
     "index.html": "/boccia/index.html",
-    "precache-manifest.c3116d111f967e5aca00cf71f315ec04.js": "/boccia/precache-manifest.c3116d111f967e5aca00cf71f315ec04.js",
+    "precache-manifest.9acbeb91fd45f6d79a5655607950f28b.js": "/boccia/precache-manifest.9acbeb91fd45f6d79a5655607950f28b.js",
     "service-worker.js": "/boccia/service-worker.js",
-    "static/css/main.b6354f70.chunk.css.map": "/boccia/static/css/main.b6354f70.chunk.css.map",
-    "static/js/2.21483fbf.chunk.js.LICENSE.txt": "/boccia/static/js/2.21483fbf.chunk.js.LICENSE.txt",
+    "static/css/main.fe1cc1f1.chunk.css.map": "/boccia/static/css/main.fe1cc1f1.chunk.css.map",
+    "static/js/2.d4c1a3de.chunk.js.LICENSE.txt": "/boccia/static/js/2.d4c1a3de.chunk.js.LICENSE.txt",
     "static/media/AlmostWin.png": "/boccia/static/media/AlmostWin.d8b8bde6.png",
+    "static/media/BC1.png": "/boccia/static/media/BC1.3b0abfa2.png",
+    "static/media/BC2.png": "/boccia/static/media/BC2.9ad1a19f.png",
+    "static/media/BC3.png": "/boccia/static/media/BC3.7eadc395.png",
+    "static/media/BC4.png": "/boccia/static/media/BC4.32aff4e3.png",
+    "static/media/BC5.png": "/boccia/static/media/BC5.2cbb2d79.png",
     "static/media/DidWin.png": "/boccia/static/media/DidWin.b0c86092.png",
     "static/media/FirstPlayer.png": "/boccia/static/media/FirstPlayer.4b1e3f9b.png",
     "static/media/HowToGainPoints.png": "/boccia/static/media/HowToGainPoints.838cd98c.png",
@@ -27,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.74d11a01.js",
-    "static/js/2.21483fbf.chunk.js",
-    "static/css/main.b6354f70.chunk.css",
-    "static/js/main.9ca1f766.chunk.js"
+    "static/js/2.d4c1a3de.chunk.js",
+    "static/css/main.fe1cc1f1.chunk.css",
+    "static/js/main.408ecaf5.chunk.js"
   ]
 }
