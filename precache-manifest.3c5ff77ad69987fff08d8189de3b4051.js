@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad4dbe9dcb6891af741297df80814af9",
+    "revision": "1729f6b47e40fd69a75c4c3a045fde07",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "005eef89bec2b0c778f7",
-    "url": "/boccia/static/css/main.b5f68489.chunk.css"
+    "revision": "5a3cc24d1ba216a8d640",
+    "url": "/boccia/static/css/main.92857c8e.chunk.css"
   },
   {
-    "revision": "b6da328f1b831a0bcb63",
-    "url": "/boccia/static/js/2.0e4a3ccc.chunk.js"
+    "revision": "640c336678024297a76e",
+    "url": "/boccia/static/js/2.506baa89.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boccia/static/js/2.0e4a3ccc.chunk.js.LICENSE.txt"
+    "url": "/boccia/static/js/2.506baa89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "005eef89bec2b0c778f7",
-    "url": "/boccia/static/js/main.658d22c9.chunk.js"
+    "revision": "5a3cc24d1ba216a8d640",
+    "url": "/boccia/static/js/main.7544f91c.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -46,6 +46,34 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2cbb2d79013b8134210977f4f59abeae",
     "url": "/boccia/static/media/BC5.2cbb2d79.png"
+  },
+  {
+    "revision": "194d4fd8822c5166d43d3117391c5ea4",
+    "url": "/boccia/static/media/CourtBase.194d4fd8.png"
+  },
+  {
+    "revision": "f8b0536d41272f055b96d8cfcb25b5ad",
+    "url": "/boccia/static/media/CourtFive.f8b0536d.png"
+  },
+  {
+    "revision": "649ef7b3011f1f79a7ce822fa9eaf2a9",
+    "url": "/boccia/static/media/CourtFour.649ef7b3.png"
+  },
+  {
+    "revision": "9b6aa19fbc5b0055c0891dd773275260",
+    "url": "/boccia/static/media/CourtOne.9b6aa19f.png"
+  },
+  {
+    "revision": "09ebd1cb4283ec9cd5276ad15a335fa3",
+    "url": "/boccia/static/media/CourtSix.09ebd1cb.png"
+  },
+  {
+    "revision": "f980df24240d50e1047c2aa217de32e4",
+    "url": "/boccia/static/media/CourtThree.f980df24.png"
+  },
+  {
+    "revision": "1284845f3d126590bd612ade4d193749",
+    "url": "/boccia/static/media/CourtTwo.1284845f.png"
   },
   {
     "revision": "b0c8609240d1e9877a68d758fba0430d",
