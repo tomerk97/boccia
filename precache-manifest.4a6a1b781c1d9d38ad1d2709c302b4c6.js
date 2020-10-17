@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cb3444372c2be4ddf44720efe708cd2",
+    "revision": "3747104d42671cc000bd607b99e5b1aa",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "3d873dd522960a01d481",
-    "url": "/boccia/static/css/main.fe1cc1f1.chunk.css"
+    "revision": "005eef89bec2b0c778f7",
+    "url": "/boccia/static/css/main.b5f68489.chunk.css"
   },
   {
-    "revision": "bf203d1337e9703073bb",
-    "url": "/boccia/static/js/2.d4c1a3de.chunk.js"
+    "revision": "b6da328f1b831a0bcb63",
+    "url": "/boccia/static/js/2.0e4a3ccc.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boccia/static/js/2.d4c1a3de.chunk.js.LICENSE.txt"
+    "url": "/boccia/static/js/2.0e4a3ccc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d873dd522960a01d481",
-    "url": "/boccia/static/js/main.408ecaf5.chunk.js"
+    "revision": "005eef89bec2b0c778f7",
+    "url": "/boccia/static/js/main.658d22c9.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -64,8 +64,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/HowToTarget.0a9cae2e.png"
   },
   {
+    "revision": "1c37f0dcfd8fbbe9a5068485cb8bd530",
+    "url": "/boccia/static/media/Penalty.1c37f0dc.png"
+  },
+  {
     "revision": "d3d991fefa2abdef9b7ed3c960b60ef0",
     "url": "/boccia/static/media/SecondPlayer.d3d991fe.png"
+  },
+  {
+    "revision": "eb02766c96d4804c77d08a2d9b6a39d9",
+    "url": "/boccia/static/media/SignalEight.eb02766c.png"
+  },
+  {
+    "revision": "cf57e169db5e7b6b3adf7ce2eb757b1b",
+    "url": "/boccia/static/media/SignalFive.cf57e169.png"
+  },
+  {
+    "revision": "a52060aaa15dc3133c07e940384cfe45",
+    "url": "/boccia/static/media/SignalFour.a52060aa.png"
+  },
+  {
+    "revision": "bec60d2dec0172e813609279a5d03979",
+    "url": "/boccia/static/media/SignalOne.bec60d2d.png"
+  },
+  {
+    "revision": "2648f641bb236ade3e131cb3bb5a7f13",
+    "url": "/boccia/static/media/SignalSeven.2648f641.png"
+  },
+  {
+    "revision": "1e4698dda559c82134683bc0e2926796",
+    "url": "/boccia/static/media/SignalSix.1e4698dd.png"
+  },
+  {
+    "revision": "6413b71aadb3b9d77be7d9613d43d2e7",
+    "url": "/boccia/static/media/SignalThree.6413b71a.png"
+  },
+  {
+    "revision": "842a92d3298bd28a3a8b4e9549aa6b7f",
+    "url": "/boccia/static/media/SignalTwo.842a92d3.png"
+  },
+  {
+    "revision": "2a39bb32bd2d6827b8734b55d9169a45",
+    "url": "/boccia/static/media/TieCourt.2a39bb32.png"
+  },
+  {
+    "revision": "790f620387587e4637ce88c0ad21f3d1",
+    "url": "/boccia/static/media/TimesBC3Single.790f6203.png"
+  },
+  {
+    "revision": "07787e4ac2cf1ee23fd1db7fcf2fc2d4",
+    "url": "/boccia/static/media/TimesGroup.07787e4a.png"
   },
   {
     "revision": "0f1251e8f2e7741bc3ffcf652df23965",
