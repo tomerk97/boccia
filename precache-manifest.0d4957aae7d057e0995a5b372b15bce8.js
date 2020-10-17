@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3747104d42671cc000bd607b99e5b1aa",
+    "revision": "ad4dbe9dcb6891af741297df80814af9",
     "url": "/boccia/index.html"
   },
   {
