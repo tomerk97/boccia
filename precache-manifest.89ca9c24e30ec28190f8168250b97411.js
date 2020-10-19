@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5b54c99fc8297eb2b049cab5090e1fd",
+    "revision": "2d53449ddd63f39f6ae5652648690caa",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "e0e9ebb43b748672e39e",
-    "url": "/boccia/static/css/main.6ef4989f.chunk.css"
+    "revision": "e997d20e8046cff6ee1b",
+    "url": "/boccia/static/css/main.e1e26114.chunk.css"
   },
   {
-    "revision": "e13679bf4502172fdb72",
-    "url": "/boccia/static/js/2.54a8d0cb.chunk.js"
+    "revision": "e769597b3a2e651612c0",
+    "url": "/boccia/static/js/2.ad407b4e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boccia/static/js/2.54a8d0cb.chunk.js.LICENSE.txt"
+    "url": "/boccia/static/js/2.ad407b4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0e9ebb43b748672e39e",
-    "url": "/boccia/static/js/main.583d7cf0.chunk.js"
+    "revision": "e997d20e8046cff6ee1b",
+    "url": "/boccia/static/js/main.707a0d7a.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -88,16 +88,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/FirstPlayer.4b1e3f9b.png"
   },
   {
-    "revision": "838cd98c4840711b6cc1f0480a2cee19",
-    "url": "/boccia/static/media/HowToGainPoints.838cd98c.png"
+    "revision": "d41f05885f63b7dc6bcbb4718662e164",
+    "url": "/boccia/static/media/HowToGainPoints.d41f0588.png"
   },
   {
     "revision": "0a9cae2e39651a5aec0e6e3ed0505a68",
     "url": "/boccia/static/media/HowToTarget.0a9cae2e.png"
   },
   {
+    "revision": "d4db074ce8b09289239c5d578e4e21aa",
+    "url": "/boccia/static/media/LevelOnePictureAnswer.d4db074c.png"
+  },
+  {
+    "revision": "706da62c6d5fde2c43d0b9877503f049",
+    "url": "/boccia/static/media/LevelOnePictureOne.706da62c.png"
+  },
+  {
+    "revision": "09adccc9e8d956a3615e6c008f87a472",
+    "url": "/boccia/static/media/LevelOnePictureTwo.09adccc9.png"
+  },
+  {
+    "revision": "d49b393cd0ed242f3b5ca1dd1c098ad3",
+    "url": "/boccia/static/media/LevelTwoPictureAnswer.d49b393c.png"
+  },
+  {
+    "revision": "4eaaf1922605cd0ce4adf344e84acc4f",
+    "url": "/boccia/static/media/LevelTwoPictureOne.4eaaf192.png"
+  },
+  {
+    "revision": "19f7bd36d72c1fa916f9d50b6fb5fd29",
+    "url": "/boccia/static/media/LevelTwoPictureTwo.19f7bd36.png"
+  },
+  {
     "revision": "1c37f0dcfd8fbbe9a5068485cb8bd530",
     "url": "/boccia/static/media/Penalty.1c37f0dc.png"
+  },
+  {
+    "revision": "a7f41e0297f9be57ed50c002dc621880",
+    "url": "/boccia/static/media/QuestionOneImage.a7f41e02.png"
   },
   {
     "revision": "d3d991fefa2abdef9b7ed3c960b60ef0",
@@ -116,10 +144,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/SignalFour.a52060aa.png"
   },
   {
-    "revision": "bec60d2dec0172e813609279a5d03979",
-    "url": "/boccia/static/media/SignalOne.bec60d2d.png"
-  },
-  {
     "revision": "2648f641bb236ade3e131cb3bb5a7f13",
     "url": "/boccia/static/media/SignalSeven.2648f641.png"
   },
@@ -130,10 +154,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6413b71aadb3b9d77be7d9613d43d2e7",
     "url": "/boccia/static/media/SignalThree.6413b71a.png"
-  },
-  {
-    "revision": "842a92d3298bd28a3a8b4e9549aa6b7f",
-    "url": "/boccia/static/media/SignalTwo.842a92d3.png"
   },
   {
     "revision": "2a39bb32bd2d6827b8734b55d9169a45",
