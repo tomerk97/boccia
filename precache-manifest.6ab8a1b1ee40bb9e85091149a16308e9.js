@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de1fd221d00f148d4075412796e331ee",
+    "revision": "03053cd271365765358ecfb9f15cc8b6",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "8bfd17f927237ba7f14f",
-    "url": "/boccia/static/css/main.6dbfac7a.chunk.css"
+    "revision": "f89c5400e05309df60ad",
+    "url": "/boccia/static/css/main.b9842ba9.chunk.css"
   },
   {
-    "revision": "d07c48beffdf78894bc5",
-    "url": "/boccia/static/js/2.f8efba71.chunk.js"
+    "revision": "b03bb8d745bc5ecb97f4",
+    "url": "/boccia/static/js/2.926a517b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boccia/static/js/2.f8efba71.chunk.js.LICENSE.txt"
+    "url": "/boccia/static/js/2.926a517b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bfd17f927237ba7f14f",
-    "url": "/boccia/static/js/main.f29bd8a5.chunk.js"
+    "revision": "f89c5400e05309df60ad",
+    "url": "/boccia/static/js/main.48a3dc37.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -88,6 +88,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/FirstPlayer.4b1e3f9b.png"
   },
   {
+    "revision": "8ca825342639460ee8c5ee52f0f0e0d8",
+    "url": "/boccia/static/media/HomeImage.8ca82534.png"
+  },
+  {
     "revision": "d41f05885f63b7dc6bcbb4718662e164",
     "url": "/boccia/static/media/HowToGainPoints.d41f0588.png"
   },
@@ -154,6 +158,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6413b71aadb3b9d77be7d9613d43d2e7",
     "url": "/boccia/static/media/SignalThree.6413b71a.png"
+  },
+  {
+    "revision": "5fcaaa21faf1d9f3856ff75efea2f169",
+    "url": "/boccia/static/media/SportLogo.5fcaaa21.png"
   },
   {
     "revision": "2a39bb32bd2d6827b8734b55d9169a45",
