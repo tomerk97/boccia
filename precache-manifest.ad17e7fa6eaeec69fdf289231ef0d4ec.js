@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1700a3188072d4d4e1a4ccc50ffeff2",
+    "revision": "9f06d89de7aefedcd1b85b99e8d072ee",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "8180a858974635708e6e",
-    "url": "/boccia/static/css/main.0f6c1c1a.chunk.css"
+    "revision": "128991ebf10125267358",
+    "url": "/boccia/static/css/main.5fbe1325.chunk.css"
   },
   {
-    "revision": "9d51d65fccc0f6021cdf",
-    "url": "/boccia/static/js/2.cd170f2d.chunk.js"
+    "revision": "73474c97ac5112174e02",
+    "url": "/boccia/static/js/2.0bb3df24.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boccia/static/js/2.cd170f2d.chunk.js.LICENSE.txt"
+    "url": "/boccia/static/js/2.0bb3df24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8180a858974635708e6e",
-    "url": "/boccia/static/js/main.c533e8b0.chunk.js"
+    "revision": "128991ebf10125267358",
+    "url": "/boccia/static/js/main.5f064ff3.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "000226c7899788f7e9354165598fc3d4",
     "url": "/boccia/static/media/BocciaIsraelBanner.000226c7.png"
+  },
+  {
+    "revision": "d214c64352c9a56333a51d140359ea62",
+    "url": "/boccia/static/media/BocciaVideo.d214c643.png"
   },
   {
     "revision": "332605710ded20433529825edfc9175e",
@@ -146,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1525a95990d727e84373ec2849b7b258",
     "url": "/boccia/static/media/NadavFourth.1525a959.png"
+  },
+  {
+    "revision": "8d8a15e99d300066912cefa700dc0eb5",
+    "url": "/boccia/static/media/NadavVideo.8d8a15e9.png"
   },
   {
     "revision": "cb4ff5af67d8f41e0e6a7118f0da45fb",
