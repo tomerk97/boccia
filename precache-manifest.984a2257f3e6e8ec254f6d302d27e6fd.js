@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc882eca885fc4ee05aaf436788dc90a",
+    "revision": "b1700a3188072d4d4e1a4ccc50ffeff2",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "e226f630047ea4e1a087",
-    "url": "/boccia/static/css/main.38d7e3e2.chunk.css"
+    "revision": "8180a858974635708e6e",
+    "url": "/boccia/static/css/main.0f6c1c1a.chunk.css"
   },
   {
-    "revision": "993b38bd9bc9963b42c0",
-    "url": "/boccia/static/js/2.044ed1f7.chunk.js"
+    "revision": "9d51d65fccc0f6021cdf",
+    "url": "/boccia/static/js/2.cd170f2d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boccia/static/js/2.044ed1f7.chunk.js.LICENSE.txt"
+    "url": "/boccia/static/js/2.cd170f2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e226f630047ea4e1a087",
-    "url": "/boccia/static/js/main.631ad53f.chunk.js"
+    "revision": "8180a858974635708e6e",
+    "url": "/boccia/static/js/main.c533e8b0.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2cbb2d79013b8134210977f4f59abeae",
     "url": "/boccia/static/media/BC5.2cbb2d79.png"
+  },
+  {
+    "revision": "35f63ad0666d5d466c8c5c97712a7f70",
+    "url": "/boccia/static/media/BatelWinning.35f63ad0.jpg"
+  },
+  {
+    "revision": "000226c7899788f7e9354165598fc3d4",
+    "url": "/boccia/static/media/BocciaIsraelBanner.000226c7.png"
   },
   {
     "revision": "332605710ded20433529825edfc9175e",
@@ -88,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/FirstPlayer.4b1e3f9b.png"
   },
   {
+    "revision": "7947c1ab773e84afcef729b040faac65",
+    "url": "/boccia/static/media/GershonChamp.7947c1ab.png"
+  },
+  {
     "revision": "8ca825342639460ee8c5ee52f0f0e0d8",
     "url": "/boccia/static/media/HomeImage.8ca82534.png"
   },
@@ -98,6 +110,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0a9cae2e39651a5aec0e6e3ed0505a68",
     "url": "/boccia/static/media/HowToTarget.0a9cae2e.png"
+  },
+  {
+    "revision": "7e71e6cfb190dcd36b4967bc07acc687",
+    "url": "/boccia/static/media/KickToLive.7e71e6cf.png"
+  },
+  {
+    "revision": "0c4c96891f213c8bbaec6c079a71176d",
+    "url": "/boccia/static/media/LeftSideBanner.0c4c9689.png"
   },
   {
     "revision": "d4db074ce8b09289239c5d578e4e21aa",
@@ -124,12 +144,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/LevelTwoPictureTwo.19f7bd36.png"
   },
   {
+    "revision": "1525a95990d727e84373ec2849b7b258",
+    "url": "/boccia/static/media/NadavFourth.1525a959.png"
+  },
+  {
+    "revision": "cb4ff5af67d8f41e0e6a7118f0da45fb",
+    "url": "/boccia/static/media/NewChamp.cb4ff5af.png"
+  },
+  {
     "revision": "1c37f0dcfd8fbbe9a5068485cb8bd530",
     "url": "/boccia/static/media/Penalty.1c37f0dc.png"
   },
   {
     "revision": "f6235d710b5ec13c522a4743eda3d6ff",
     "url": "/boccia/static/media/QuestionOneImage.f6235d71.png"
+  },
+  {
+    "revision": "8b74ba8d3f15254b3007d81610076bcd",
+    "url": "/boccia/static/media/RightSideBanner.8b74ba8d.png"
   },
   {
     "revision": "d3d991fefa2abdef9b7ed3c960b60ef0",
@@ -162,10 +194,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ab437ef947b21e869d7bfe1778743803",
     "url": "/boccia/static/media/SportLogo.ab437ef9.png"
-  },
-  {
-    "revision": "9a384be2cc205af77a65cf708a5a248b",
-    "url": "/boccia/static/media/TemporaryContact.9a384be2.png"
   },
   {
     "revision": "2a39bb32bd2d6827b8734b55d9169a45",
