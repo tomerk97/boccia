@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18fa42d2c4db7f0a866a510936ddf1bf",
+    "revision": "365c6267ebe6593ffc35864dfa9bd272",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "c111dc8a2c133c1a0568",
-    "url": "/boccia/static/css/main.2388a7c2.chunk.css"
+    "revision": "b741d9f88ec333b3524d",
+    "url": "/boccia/static/css/main.13f13ed4.chunk.css"
   },
   {
     "revision": "d72708fbefd6a3093db1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/js/2.ba3995e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c111dc8a2c133c1a0568",
-    "url": "/boccia/static/js/main.d5129e04.chunk.js"
+    "revision": "b741d9f88ec333b3524d",
+    "url": "/boccia/static/js/main.47db15a6.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "35f63ad0666d5d466c8c5c97712a7f70",
     "url": "/boccia/static/media/BatelWinning.35f63ad0.jpg"
+  },
+  {
+    "revision": "41822bb55276431e944bd7bbd4f30e5a",
+    "url": "/boccia/static/media/BlueLogo.41822bb5.png"
   },
   {
     "revision": "000226c7899788f7e9354165598fc3d4",
@@ -114,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0a9cae2e39651a5aec0e6e3ed0505a68",
     "url": "/boccia/static/media/HowToTarget.0a9cae2e.png"
+  },
+  {
+    "revision": "6d3810dddfb7f4c115909b3abf5b1d19",
+    "url": "/boccia/static/media/IsraelUnionLogo.6d3810dd.png"
   },
   {
     "revision": "7e71e6cfb190dcd36b4967bc07acc687",
@@ -200,10 +208,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/SignalThree.6413b71a.png"
   },
   {
-    "revision": "ab437ef947b21e869d7bfe1778743803",
-    "url": "/boccia/static/media/SportLogo.ab437ef9.png"
-  },
-  {
     "revision": "2a39bb32bd2d6827b8734b55d9169a45",
     "url": "/boccia/static/media/TieCourt.2a39bb32.png"
   },
@@ -226,10 +230,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4446f2602c6166d823e544562ed36913",
     "url": "/boccia/static/media/WhatIsThird.4446f260.png"
-  },
-  {
-    "revision": "11dc605ea2eb137f892461aab5451458",
-    "url": "/boccia/static/media/WhiteLogo.11dc605e.png"
   },
   {
     "revision": "194d4fd8822c5166d43d3117391c5ea4",

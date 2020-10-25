@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/boccia/static/css/main.2388a7c2.chunk.css",
-    "main.js": "/boccia/static/js/main.d5129e04.chunk.js",
-    "main.js.map": "/boccia/static/js/main.d5129e04.chunk.js.map",
+    "main.css": "/boccia/static/css/main.13f13ed4.chunk.css",
+    "main.js": "/boccia/static/js/main.47db15a6.chunk.js",
+    "main.js.map": "/boccia/static/js/main.47db15a6.chunk.js.map",
     "runtime-main.js": "/boccia/static/js/runtime-main.74d11a01.js",
     "runtime-main.js.map": "/boccia/static/js/runtime-main.74d11a01.js.map",
     "static/js/2.ba3995e5.chunk.js": "/boccia/static/js/2.ba3995e5.chunk.js",
     "static/js/2.ba3995e5.chunk.js.map": "/boccia/static/js/2.ba3995e5.chunk.js.map",
     "index.html": "/boccia/index.html",
-    "precache-manifest.0fbf0c049dda806891a3007f2a130fe5.js": "/boccia/precache-manifest.0fbf0c049dda806891a3007f2a130fe5.js",
+    "precache-manifest.b90389375a8511ea76e8748d6c992c28.js": "/boccia/precache-manifest.b90389375a8511ea76e8748d6c992c28.js",
     "service-worker.js": "/boccia/service-worker.js",
-    "static/css/main.2388a7c2.chunk.css.map": "/boccia/static/css/main.2388a7c2.chunk.css.map",
+    "static/css/main.13f13ed4.chunk.css.map": "/boccia/static/css/main.13f13ed4.chunk.css.map",
     "static/js/2.ba3995e5.chunk.js.LICENSE.txt": "/boccia/static/js/2.ba3995e5.chunk.js.LICENSE.txt",
     "static/media/AlmostWin.png": "/boccia/static/media/AlmostWin.d8b8bde6.png",
     "static/media/BC1.png": "/boccia/static/media/BC1.3b0abfa2.png",
@@ -19,6 +19,7 @@
     "static/media/BC4.png": "/boccia/static/media/BC4.32aff4e3.png",
     "static/media/BC5.png": "/boccia/static/media/BC5.2cbb2d79.png",
     "static/media/BatelWinning.jpg": "/boccia/static/media/BatelWinning.35f63ad0.jpg",
+    "static/media/BlueLogo.png": "/boccia/static/media/BlueLogo.41822bb5.png",
     "static/media/BocciaIsraelBanner.png": "/boccia/static/media/BocciaIsraelBanner.000226c7.png",
     "static/media/BocciaVideo.png": "/boccia/static/media/BocciaVideo.d214c643.png",
     "static/media/Contact.png": "/boccia/static/media/Contact.4c1e718e.png",
@@ -35,6 +36,7 @@
     "static/media/HomeImage.png": "/boccia/static/media/HomeImage.8ca82534.png",
     "static/media/HowToGainPoints.png": "/boccia/static/media/HowToGainPoints.d41f0588.png",
     "static/media/HowToTarget.png": "/boccia/static/media/HowToTarget.0a9cae2e.png",
+    "static/media/IsraelUnionLogo.png": "/boccia/static/media/IsraelUnionLogo.6d3810dd.png",
     "static/media/KickToLive.png": "/boccia/static/media/KickToLive.7e71e6cf.png",
     "static/media/LeftSideBanner.png": "/boccia/static/media/LeftSideBanner.0c4c9689.png",
     "static/media/LevelOnePictureAnswer.png": "/boccia/static/media/LevelOnePictureAnswer.d4db074c.png",
@@ -56,21 +58,19 @@
     "static/media/SignalSeven.png": "/boccia/static/media/SignalSeven.2648f641.png",
     "static/media/SignalSix.png": "/boccia/static/media/SignalSix.1e4698dd.png",
     "static/media/SignalThree.png": "/boccia/static/media/SignalThree.6413b71a.png",
-    "static/media/SportLogo.png": "/boccia/static/media/SportLogo.ab437ef9.png",
     "static/media/TieCourt.png": "/boccia/static/media/TieCourt.2a39bb32.png",
     "static/media/TimesBC3Single.png": "/boccia/static/media/TimesBC3Single.790f6203.png",
     "static/media/TimesGroup.png": "/boccia/static/media/TimesGroup.07787e4a.png",
     "static/media/WhatIsOne.png": "/boccia/static/media/WhatIsOne.0f1251e8.png",
     "static/media/WhatIsSecond.png": "/boccia/static/media/WhatIsSecond.692415f0.png",
     "static/media/WhatIsThird.png": "/boccia/static/media/WhatIsThird.4446f260.png",
-    "static/media/WhiteLogo.png": "/boccia/static/media/WhiteLogo.11dc605e.png",
     "static/media/court.png": "/boccia/static/media/court.194d4fd8.png",
     "static/media/logo.svg": "/boccia/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.74d11a01.js",
     "static/js/2.ba3995e5.chunk.js",
-    "static/css/main.2388a7c2.chunk.css",
-    "static/js/main.d5129e04.chunk.js"
+    "static/css/main.13f13ed4.chunk.css",
+    "static/js/main.47db15a6.chunk.js"
   ]
 }
