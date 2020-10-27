@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1b1883ede67a99c847af4432f014485",
+    "revision": "884fe2dca536dfd1ad78e88d31ff7862",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "fa036a5ab93140e0092b",
-    "url": "/boccia/static/css/main.11fd9c8b.chunk.css"
+    "revision": "ed3aea54a063846cb94e",
+    "url": "/boccia/static/css/main.9033cf57.chunk.css"
   },
   {
-    "revision": "d72708fbefd6a3093db1",
-    "url": "/boccia/static/js/2.ba3995e5.chunk.js"
+    "revision": "e74e55304949dd8df0d3",
+    "url": "/boccia/static/js/2.8de089e2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/boccia/static/js/2.ba3995e5.chunk.js.LICENSE.txt"
+    "url": "/boccia/static/js/2.8de089e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa036a5ab93140e0092b",
-    "url": "/boccia/static/js/main.47db15a6.chunk.js"
+    "revision": "ed3aea54a063846cb94e",
+    "url": "/boccia/static/js/main.44465149.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/AlmostWin.d8b8bde6.png"
   },
   {
-    "revision": "3b0abfa235796f545c617180df80545b",
-    "url": "/boccia/static/media/BC1.3b0abfa2.png"
+    "revision": "e86ef35799855523c978d633d89f0447",
+    "url": "/boccia/static/media/BC1.e86ef357.png"
   },
   {
     "revision": "9ad1a19f91ee407891d95e7e6dc68f10",
     "url": "/boccia/static/media/BC2.9ad1a19f.png"
   },
   {
-    "revision": "7eadc395c4fe8a7b677993d0075ebcee",
-    "url": "/boccia/static/media/BC3.7eadc395.png"
+    "revision": "aa7cfaffbf7f2994dd5d3d13a486c864",
+    "url": "/boccia/static/media/BC3.aa7cfaff.png"
   },
   {
     "revision": "32aff4e3aac7d9aa60dc278cd427d5f4",
@@ -108,16 +108,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/GershonChamp.7947c1ab.png"
   },
   {
-    "revision": "8ca825342639460ee8c5ee52f0f0e0d8",
-    "url": "/boccia/static/media/HomeImage.8ca82534.png"
+    "revision": "259e0012d360c148f33804135321cc6d",
+    "url": "/boccia/static/media/HomeImage.259e0012.png"
   },
   {
     "revision": "d41f05885f63b7dc6bcbb4718662e164",
     "url": "/boccia/static/media/HowToGainPoints.d41f0588.png"
   },
   {
-    "revision": "0a9cae2e39651a5aec0e6e3ed0505a68",
-    "url": "/boccia/static/media/HowToTarget.0a9cae2e.png"
+    "revision": "ec84a8db25b9067ca64966a2a7359126",
+    "url": "/boccia/static/media/HowToTarget.ec84a8db.png"
   },
   {
     "revision": "6d3810dddfb7f4c115909b3abf5b1d19",
