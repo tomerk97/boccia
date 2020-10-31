@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60862ddd58a2e0d7847931fc78adde87",
+    "revision": "5142b6e476722beda268183dd231658a",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "2f5488ca8e6365abb365",
+    "revision": "c40907c381d1eb6003cc",
     "url": "/boccia/static/css/main.a81bca95.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/js/2.501d9488.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f5488ca8e6365abb365",
-    "url": "/boccia/static/js/main.9c4f88cf.chunk.js"
+    "revision": "c40907c381d1eb6003cc",
+    "url": "/boccia/static/js/main.8cf64c70.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -124,8 +124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/IsraelUnionLogo.6d3810dd.png"
   },
   {
-    "revision": "7e71e6cfb190dcd36b4967bc07acc687",
-    "url": "/boccia/static/media/KickToLive.7e71e6cf.png"
+    "revision": "898824aa63d34e5b546dce0f0bcdbd0e",
+    "url": "/boccia/static/media/KickToLive.898824aa.jpg"
   },
   {
     "revision": "0c4c96891f213c8bbaec6c079a71176d",
