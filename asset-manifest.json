@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/boccia/static/css/main.3ce38d0f.chunk.css",
-    "main.js": "/boccia/static/js/main.e24903da.chunk.js",
-    "main.js.map": "/boccia/static/js/main.e24903da.chunk.js.map",
+    "main.css": "/boccia/static/css/main.a81bca95.chunk.css",
+    "main.js": "/boccia/static/js/main.9c4f88cf.chunk.js",
+    "main.js.map": "/boccia/static/js/main.9c4f88cf.chunk.js.map",
     "runtime-main.js": "/boccia/static/js/runtime-main.74d11a01.js",
     "runtime-main.js.map": "/boccia/static/js/runtime-main.74d11a01.js.map",
-    "static/js/2.36492958.chunk.js": "/boccia/static/js/2.36492958.chunk.js",
-    "static/js/2.36492958.chunk.js.map": "/boccia/static/js/2.36492958.chunk.js.map",
+    "static/js/2.501d9488.chunk.js": "/boccia/static/js/2.501d9488.chunk.js",
+    "static/js/2.501d9488.chunk.js.map": "/boccia/static/js/2.501d9488.chunk.js.map",
     "index.html": "/boccia/index.html",
-    "precache-manifest.6a6ed665c4637efc3adb69dc970c113f.js": "/boccia/precache-manifest.6a6ed665c4637efc3adb69dc970c113f.js",
+    "precache-manifest.697beb7049876bbb85f44799bb570e49.js": "/boccia/precache-manifest.697beb7049876bbb85f44799bb570e49.js",
     "service-worker.js": "/boccia/service-worker.js",
-    "static/css/main.3ce38d0f.chunk.css.map": "/boccia/static/css/main.3ce38d0f.chunk.css.map",
-    "static/js/2.36492958.chunk.js.LICENSE.txt": "/boccia/static/js/2.36492958.chunk.js.LICENSE.txt",
+    "static/css/main.a81bca95.chunk.css.map": "/boccia/static/css/main.a81bca95.chunk.css.map",
+    "static/js/2.501d9488.chunk.js.LICENSE.txt": "/boccia/static/js/2.501d9488.chunk.js.LICENSE.txt",
     "static/media/AlmostWin.png": "/boccia/static/media/AlmostWin.d8b8bde6.png",
     "static/media/BC1.png": "/boccia/static/media/BC1.e86ef357.png",
     "static/media/BC2.png": "/boccia/static/media/BC2.26f059db.png",
@@ -80,12 +80,16 @@
     "static/media/WhatIsSecond.png": "/boccia/static/media/WhatIsSecond.692415f0.png",
     "static/media/WhatIsThird.png": "/boccia/static/media/WhatIsThird.4446f260.png",
     "static/media/court.png": "/boccia/static/media/court.194d4fd8.png",
-    "static/media/logo.svg": "/boccia/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/boccia/static/media/logo.5d5d9eef.svg",
+    "static/media/one.png": "/boccia/static/media/one.ee5be583.png",
+    "static/media/three.png": "/boccia/static/media/three.1a5b12e9.png",
+    "static/media/two.png": "/boccia/static/media/two.7951dac6.png",
+    "static/media/zero.png": "/boccia/static/media/zero.dc9766fa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.74d11a01.js",
-    "static/js/2.36492958.chunk.js",
-    "static/css/main.3ce38d0f.chunk.css",
-    "static/js/main.e24903da.chunk.js"
+    "static/js/2.501d9488.chunk.js",
+    "static/css/main.a81bca95.chunk.css",
+    "static/js/main.9c4f88cf.chunk.js"
   ]
 }
