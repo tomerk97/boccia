@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1aa463c443de3e7feafdaa0604b0c49",
+    "revision": "a82eda12fbe2c31b50ad73c1f16e2c04",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "a10fdd203d6f61913b82",
+    "revision": "ff1f2f384c968c83bf1e",
     "url": "/boccia/static/css/main.fea8747f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/js/2.501d9488.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a10fdd203d6f61913b82",
-    "url": "/boccia/static/js/main.8cf64c70.chunk.js"
+    "revision": "ff1f2f384c968c83bf1e",
+    "url": "/boccia/static/js/main.6ee3e6ba.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/Contact.b1a1afbb.png"
   },
   {
-    "revision": "194d4fd8822c5166d43d3117391c5ea4",
-    "url": "/boccia/static/media/CourtBase.194d4fd8.png"
+    "revision": "d81f77e0202ddde99caa90656754cdbb",
+    "url": "/boccia/static/media/CourtBase.d81f77e0.png"
   },
   {
     "revision": "f8b0536d41272f055b96d8cfcb25b5ad",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/HomeImage.259e0012.png"
   },
   {
-    "revision": "d41f05885f63b7dc6bcbb4718662e164",
-    "url": "/boccia/static/media/HowToGainPoints.d41f0588.png"
+    "revision": "0b9a8b9cf9b89a76ccdfe1bd1a5a5312",
+    "url": "/boccia/static/media/HowToGainPoints.0b9a8b9c.png"
   },
   {
     "revision": "ec84a8db25b9067ca64966a2a7359126",
@@ -136,24 +136,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/LevelOnePictureAnswer.d4db074c.png"
   },
   {
-    "revision": "706da62c6d5fde2c43d0b9877503f049",
-    "url": "/boccia/static/media/LevelOnePictureOne.706da62c.png"
+    "revision": "6651da2a77e7654a724336d46490e5c1",
+    "url": "/boccia/static/media/LevelOnePictureOne.6651da2a.png"
   },
   {
-    "revision": "09adccc9e8d956a3615e6c008f87a472",
-    "url": "/boccia/static/media/LevelOnePictureTwo.09adccc9.png"
+    "revision": "4e15fdbab065cefcc77983f9c4a1d9a4",
+    "url": "/boccia/static/media/LevelOnePictureTwo.4e15fdba.png"
   },
   {
     "revision": "d49b393cd0ed242f3b5ca1dd1c098ad3",
     "url": "/boccia/static/media/LevelTwoPictureAnswer.d49b393c.png"
   },
   {
-    "revision": "4eaaf1922605cd0ce4adf344e84acc4f",
-    "url": "/boccia/static/media/LevelTwoPictureOne.4eaaf192.png"
+    "revision": "81e466a8bc9147a644ab387d403ced2c",
+    "url": "/boccia/static/media/LevelTwoPictureOne.81e466a8.png"
   },
   {
-    "revision": "19f7bd36d72c1fa916f9d50b6fb5fd29",
-    "url": "/boccia/static/media/LevelTwoPictureTwo.19f7bd36.png"
+    "revision": "210f21c9570c47f594aaa24a04afbb75",
+    "url": "/boccia/static/media/LevelTwoPictureTwo.210f21c9.png"
   },
   {
     "revision": "7a3e6b06501f78fbb6875e2ffe8a05fc",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/SignalTwo.ae52f776.png"
   },
   {
-    "revision": "2a39bb32bd2d6827b8734b55d9169a45",
-    "url": "/boccia/static/media/TieCourt.2a39bb32.png"
+    "revision": "6d95fcfecf6a599c9053e77469f4161a",
+    "url": "/boccia/static/media/TieCourt.6d95fcfe.png"
   },
   {
     "revision": "6381f5b8744c3cb1f059fe2e0bdb8a02",
@@ -280,8 +280,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/TimesBC4Single.fd4f2eef.png"
   },
   {
-    "revision": "0f1251e8f2e7741bc3ffcf652df23965",
-    "url": "/boccia/static/media/WhatIsOne.0f1251e8.png"
+    "revision": "e3c17d81832874fa0298ddb50858ab3a",
+    "url": "/boccia/static/media/WhatIsOne.e3c17d81.png"
   },
   {
     "revision": "692415f09128e5ab5a9c7bf05c75f1c8",
