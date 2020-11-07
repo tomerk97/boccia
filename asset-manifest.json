@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/boccia/static/css/main.b1318d66.chunk.css",
-    "main.js": "/boccia/static/js/main.c25cad97.chunk.js",
-    "main.js.map": "/boccia/static/js/main.c25cad97.chunk.js.map",
+    "main.js": "/boccia/static/js/main.49f9e9f6.chunk.js",
+    "main.js.map": "/boccia/static/js/main.49f9e9f6.chunk.js.map",
     "runtime-main.js": "/boccia/static/js/runtime-main.74d11a01.js",
     "runtime-main.js.map": "/boccia/static/js/runtime-main.74d11a01.js.map",
     "static/js/2.501d9488.chunk.js": "/boccia/static/js/2.501d9488.chunk.js",
     "static/js/2.501d9488.chunk.js.map": "/boccia/static/js/2.501d9488.chunk.js.map",
     "index.html": "/boccia/index.html",
-    "precache-manifest.ec546487f6c1d2d6e0c0a5165e38dd29.js": "/boccia/precache-manifest.ec546487f6c1d2d6e0c0a5165e38dd29.js",
+    "precache-manifest.e598a5b47db913cf3b58176dc6b2d52a.js": "/boccia/precache-manifest.e598a5b47db913cf3b58176dc6b2d52a.js",
     "service-worker.js": "/boccia/service-worker.js",
     "static/css/main.b1318d66.chunk.css.map": "/boccia/static/css/main.b1318d66.chunk.css.map",
     "static/js/2.501d9488.chunk.js.LICENSE.txt": "/boccia/static/js/2.501d9488.chunk.js.LICENSE.txt",
@@ -17,7 +17,7 @@
     "static/media/BC2.png": "/boccia/static/media/BC2.26f059db.png",
     "static/media/BC3.png": "/boccia/static/media/BC3.b7bcaec5.png",
     "static/media/BC4.png": "/boccia/static/media/BC4.32aff4e3.png",
-    "static/media/BC5.png": "/boccia/static/media/BC5.34c94e64.png",
+    "static/media/BC5.png": "/boccia/static/media/BC5.da029bb9.png",
     "static/media/BatelWinning.jpg": "/boccia/static/media/BatelWinning.35f63ad0.jpg",
     "static/media/BlueLogo.png": "/boccia/static/media/BlueLogo.41822bb5.png",
     "static/media/BocciaIsraelBanner.png": "/boccia/static/media/BocciaIsraelBanner.000226c7.png",
@@ -90,6 +90,6 @@
     "static/js/runtime-main.74d11a01.js",
     "static/js/2.501d9488.chunk.js",
     "static/css/main.b1318d66.chunk.css",
-    "static/js/main.c25cad97.chunk.js"
+    "static/js/main.49f9e9f6.chunk.js"
   ]
 }

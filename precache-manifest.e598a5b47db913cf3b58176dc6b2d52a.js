@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c96b5afa20164e09fe7043dda1b256c8",
+    "revision": "472aa457ba851bbe53bd7cb918b17475",
     "url": "/boccia/index.html"
   },
   {
-    "revision": "668cd0d9c140c4ca5fe0",
+    "revision": "83d18c0cf44f70d88314",
     "url": "/boccia/static/css/main.b1318d66.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/js/2.501d9488.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "668cd0d9c140c4ca5fe0",
-    "url": "/boccia/static/js/main.c25cad97.chunk.js"
+    "revision": "83d18c0cf44f70d88314",
+    "url": "/boccia/static/js/main.49f9e9f6.chunk.js"
   },
   {
     "revision": "238376d4608073255e1d",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boccia/static/media/BC4.32aff4e3.png"
   },
   {
-    "revision": "34c94e644efec3fb879ab9ae3852a402",
-    "url": "/boccia/static/media/BC5.34c94e64.png"
+    "revision": "da029bb9bf92650c7a7fa0eb42edd4d8",
+    "url": "/boccia/static/media/BC5.da029bb9.png"
   },
   {
     "revision": "35f63ad0666d5d466c8c5c97712a7f70",
