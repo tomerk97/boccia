@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/boccia/static/css/main.9345828c.chunk.css",
-    "main.js": "/boccia/static/js/main.9f17e56f.chunk.js",
-    "main.js.map": "/boccia/static/js/main.9f17e56f.chunk.js.map",
+    "main.css": "/boccia/static/css/main.e13dc436.chunk.css",
+    "main.js": "/boccia/static/js/main.e08f47d6.chunk.js",
+    "main.js.map": "/boccia/static/js/main.e08f47d6.chunk.js.map",
     "runtime-main.js": "/boccia/static/js/runtime-main.74d11a01.js",
     "runtime-main.js.map": "/boccia/static/js/runtime-main.74d11a01.js.map",
     "static/js/2.e278987c.chunk.js": "/boccia/static/js/2.e278987c.chunk.js",
     "static/js/2.e278987c.chunk.js.map": "/boccia/static/js/2.e278987c.chunk.js.map",
     "index.html": "/boccia/index.html",
-    "precache-manifest.ecaa5e62c1ceb78d0813cca0ba0855f6.js": "/boccia/precache-manifest.ecaa5e62c1ceb78d0813cca0ba0855f6.js",
+    "precache-manifest.b80421de067d6ddf316924ce514c6f59.js": "/boccia/precache-manifest.b80421de067d6ddf316924ce514c6f59.js",
     "service-worker.js": "/boccia/service-worker.js",
-    "static/css/main.9345828c.chunk.css.map": "/boccia/static/css/main.9345828c.chunk.css.map",
+    "static/css/main.e13dc436.chunk.css.map": "/boccia/static/css/main.e13dc436.chunk.css.map",
     "static/js/2.e278987c.chunk.js.LICENSE.txt": "/boccia/static/js/2.e278987c.chunk.js.LICENSE.txt",
     "static/media/AlmostWin.png": "/boccia/static/media/AlmostWin.d8b8bde6.png",
     "static/media/BC1.png": "/boccia/static/media/BC1.e86ef357.png",
     "static/media/BC2.png": "/boccia/static/media/BC2.26f059db.png",
     "static/media/BC3.png": "/boccia/static/media/BC3.32aff4e3.png",
-    "static/media/BC4.png": "/boccia/static/media/BC4.b7bcaec5.png",
+    "static/media/BC4.png": "/boccia/static/media/BC4.9500828b.png",
     "static/media/BC5.png": "/boccia/static/media/BC5.048679a6.png",
     "static/media/BatelWinning.jpg": "/boccia/static/media/BatelWinning.35f63ad0.jpg",
     "static/media/BlueLogo.png": "/boccia/static/media/BlueLogo.41822bb5.png",
@@ -75,7 +75,7 @@
     "static/media/TimesBC4Single.png": "/boccia/static/media/TimesBC4Single.fd4f2eef.png",
     "static/media/TimesGroup.png": "/boccia/static/media/TimesGroup.a8a77652.png",
     "static/media/WhatIsOne.png": "/boccia/static/media/WhatIsOne.e3c17d81.png",
-    "static/media/WhatIsSecond.png": "/boccia/static/media/WhatIsSecond.9156b8a2.png",
+    "static/media/WhatIsSecond.png": "/boccia/static/media/WhatIsSecond.1e2c1eb6.png",
     "static/media/WhatIsThird.png": "/boccia/static/media/WhatIsThird.4446f260.png",
     "static/media/court.png": "/boccia/static/media/court.194d4fd8.png",
     "static/media/logo.svg": "/boccia/static/media/logo.5d5d9eef.svg",
@@ -87,7 +87,7 @@
   "entrypoints": [
     "static/js/runtime-main.74d11a01.js",
     "static/js/2.e278987c.chunk.js",
-    "static/css/main.9345828c.chunk.css",
-    "static/js/main.9f17e56f.chunk.js"
+    "static/css/main.e13dc436.chunk.css",
+    "static/js/main.e08f47d6.chunk.js"
   ]
 }
